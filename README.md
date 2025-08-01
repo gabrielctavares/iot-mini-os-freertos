@@ -65,9 +65,9 @@ Caso queira criar seu próprio projeto Wokwi:
 
 1. Acesse [https://wokwi.com](https://wokwi.com)
 2. Crie um novo projeto com ESP32
-3. Copie o sketch.ino
-4. Copie o diagram.json
-6. Instale as bibliotecas necessárias
+3. Substitua o `sketch.ino` pelo código-fonte deste repositório
+4. Cole o conteúdo do `diagram.json` para configurar o circuito
+5. Execute
 
 ---
 ## 📁 Estrutura do Projeto
