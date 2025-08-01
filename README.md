@@ -1,6 +1,6 @@
 # Mini Sistema Operacional para IoT 
 
-Este projeto representa um **mini sistema operacional embarcado para IoT**, implementado com **FreeRTOS** sobre um **ESP32**, usando tarefas concorrentes, semáforos, filas e exibição em **display OLED SSD1306**. Ele simula uma arquitetura típica de IoT com sensores, atuadores e interface visual.
+Este projeto representa um **mini sistema operacional embarcado para IoT**, implementado com **FreeRTOS** sobre um **ESP32**, usando tarefas concorrentes, semáforos, filas e exibição em **display OLED SSD1306**. Ele simula uma arquitetura de IoT com sensores, atuadores e interface visual.
 
 ---
 
