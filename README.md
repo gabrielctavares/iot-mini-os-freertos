@@ -80,3 +80,11 @@ taskProcessador() // Interpreta evento e envia comando
 taskAtuador()   // Liga/desliga o LED
 taskDisplay()   // Mostra os estados no OLED
 ```
+---
+
+## 🎓 Sobre
+
+Este projeto foi desenvolvido como parte da disciplina  
+**DCC062 – Sistemas Operacionais** da **Universidade Federal de Juiz de Fora (UFJF)**.
+
+---
